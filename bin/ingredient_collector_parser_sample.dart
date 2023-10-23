@@ -32,3 +32,7 @@ void retrieveRecipeServings(Document document) {
 void retrieveRecipeIngredients(Document document) {
   // TODO: Retrieve the recipe ingredients from the document
 }
+
+void retrieveRecipeSingleIngredient(Element element) {
+  // TODO: Retrieve a single recipe ingredient from the element
+}
